@@ -3,7 +3,7 @@
 
 ### Introduction
 The purpose of this assignment is to data scrape the Wikipedia page of the SpaceX Falcon 9/Heavy Launches, and create nine small reports using that data. 
-This will be done once with Beautiful Soup and once with ScrapeGraphAI in a Python extraction program.
+This will be done once with Beautiful Soup and once with ScrapeGraphAI in a Python extraction program. The code was written and ran in Anaconda's Spyder IDE.
 <br>
 
 ### Beautiful Soup
@@ -34,7 +34,10 @@ https://github.com/Cheeseu999/CISHW3/blob/1d2057cc4711fa7592b763f996c78b35414d00
 Finally, once the dataframes are all cleaned, they are concatenated together and outputted as a 'Blocks.csv' file using pandas'
 to_csv() function, separated by commas.
 https://github.com/Cheeseu999/CISHW3/blob/1d2057cc4711fa7592b763f996c78b35414d00f0/f9Extract.py#L217-L225
+<br>
+Overall, the actual scraping part was quick to write and run. Cleaning took a bit longer, but the file is now ready to be used in the reports.
 
+### Reports
 
 
 
