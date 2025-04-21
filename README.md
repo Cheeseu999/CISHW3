@@ -1,12 +1,12 @@
 # CIS4340 HW3
 **Write up for Homework 3**
 
-### Introduction
+## Introduction
 The purpose of this assignment is to data scrape the Wikipedia page of the SpaceX Falcon 9/Heavy Launches, and create nine small reports using that data. 
 This will be done once with Beautiful Soup and once with ScrapeGraphAI in a Python extraction program. The code was written and ran in Anaconda's Spyder IDE.
 <br>
 
-### Beautiful Soup
+## Beautiful Soup
 For the non-AI web scrapers, there were two options: Beautiful Soup and Scrapy. I decided to go with Beautiful Soup simply because, unlike Scrapy, I had already heard of it before this assignment.
 <br><br>
 The webscraping portion of the extraction code references this [helpful article](https://www.datahen.com/blog/web-scraping-using-python-beautiful-soup/), which guides on how to use
@@ -37,7 +37,19 @@ https://github.com/Cheeseu999/CISHW3/blob/1d2057cc4711fa7592b763f996c78b35414d00
 <br>
 Overall, the actual scraping part was quick to write and run. Cleaning took a bit longer, but the file is now ready to be used in the reports.
 
-### Reports
+## ScrapeGraphAI
+While using BeautifulSoup was a straightforward process, the same can't be said for the AI web scraper ScrapeGraphAI. The way ScrapeGraphAI works is that the model is given a url and a prompt, written out by the user. Since the prompt can be anything within reason, it allows for much more flexible information retrieval. At the same time, however, this flexibility makes it so that getting the exact information you need in the way you want it can be difficult.
+
+To create the extraction program, I this time wrote in Jupyter, as it would take multiple attempts to scrape the website, so the cell block format of Jupyter helped a lot with organization. I also used LangChain to get the API keys I needed to run ScrapeGraphAI.
+
+### Attempt 1
+One benefit of using LangChain beyond getting an API Key, is that they allow you to create an output schema for your prompt, meaning you can curate exactly what you need the output to look like. I wanted to see if I could use this output schema to get the data essentially pre-formatted and pre-cleaned all into one table. 
+
+### Attempt 2
+
+### Attempt 3
+
+## Reports
 
 
 
