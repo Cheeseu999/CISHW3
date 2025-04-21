@@ -1,0 +1,504 @@
+engine_number,block_type,flight_number,flight_type,launch_date,launch_pad,landing_location,turnaround_time,engine_status,total_launches
+B0001,1.0,N/A,N/A,N/A,N/A,N/A,0,N/A,1
+B0002,1.0,N/A,N/A,N/A,Suborbital,8 test landings achieved[10],0,Retired,1
+B0003,1.0,F9-001,F9,2010-06-04,Success (SLC‑40)[12],Failure (parachute),0,Destroyed,1
+B0004,1.0,F9-002,F9,2010-12-08,Success (SLC‑40),Failure (parachute),0,Destroyed,1
+B0005,1.0,F9-003,F9,2012-05-22,Success (SLC‑40),No attempt,0,Expended,1
+B0006,1.0,F9-004,F9,2012-10-08,Partial success (SLC‑40)[15],No attempt,0,Expended,1
+B0007,1.0,F9-005,F9,2013-03-01,Success (SLC‑40),No attempt,0,Expended,1
+B1001,1.1,N/A,N/A,N/A,N/A,N/A,0,N/A,1
+B1002,1.1,N/A,N/A,N/A,Suborbital,4 test landings achieved[10],0,Destroyed,1
+B1003,1.1,F9-006,F9,2013-09-29,Success (SLC‑4E),No attempt,0,Expended,1
+B1004,1.1,F9-007,F9,2013-12-03,Success (SLC‑40),No attempt,0,Expended,1
+B1005,1.1,F9-008,F9,2014-01-06,Success (SLC‑40),No attempt,0,Expended,1
+B1006,1.1,F9-009,F9,2014-04-18,Success (SLC‑40),No attempt,0,Expended,1
+B1007,1.1,F9-010,F9,2014-07-14,Success (SLC‑40),No attempt,0,Expended,1
+B1008,1.1,F9-011,F9,2014-08-05,Success (SLC‑40),No attempt,0,Expended,1
+B1009,1.1,N/A,N/A,N/A,N/A,N/A,0,Never completed,1
+B1010,1.1,F9-013,F9,2014-09-21,Success (SLC‑40),No attempt,0,Expended,1
+B1011,1.1,F9-012,F9,2014-09-07,Success (SLC‑40),No attempt,0,Expended,1
+B1012,1.1,F9-014,F9,2015-01-10,Success (SLC‑40),Failure (JRTI),0,Destroyed,1
+B1013,1.1,F9-015,F9,2015-02-11,Success (SLC‑40),No attempt,0,Expended,1
+B1014,1.1,F9-016,F9,2015-03-02,Success (SLC‑40),No attempt,0,Expended,1
+B1015,1.1,F9-017,F9,2015-04-14,Success (SLC‑40),Failure (JRTI),0,Destroyed,1
+B1016,1.1,F9-018,F9,2015-04-27,Success (SLC‑40),No attempt,0,Expended,1
+B1017,1.1,F9-021,F9,2016-01-17,Success (SLC‑4E),Failure (JRTI),0,Destroyed,1
+B1018,1.1,F9-019,F9,2015-06-28,Failure (SLC‑40),Precluded,0,Destroyed,1
+B1019,4,F9-020,F9,2015-12-22,Success (SLC‑40),Success (LZ‑1)[24],N/A,Retired,1
+B1020,4,F9-022,F9,2016-03-04,Success (SLC‑40),Failure (OCISLY),N/A,Destroyed,1
+B1021,4,F9-023,F9,2016-04-08,Success (SLC‑40),Success (OCISLY),N/A,Retired,2
+B1021,4,F9-032,F9,2017-03-30,Success (LC‑39A),Success (OCISLY)[32][33],356 days,Retired,2
+B1022,4,F9-024,F9,2016-05-06,Success (SLC‑40),Success (OCISLY),N/A,Retired,1
+B1023,4,F9-025,F9,2016-05-27,Success (SLC‑40),Success (OCISLY)[35],N/A,Retired,2
+B1023,4,FH-001,FH,2018-02-06,Success (LC‑39A),Success (LZ‑1),620 days,Retired,2
+B1024,4,F9-026,F9,2016-06-15,Success (SLC‑40),Failure (OCISLY),N/A,Destroyed,1
+B1025,4,F9-027,F9,2016-07-18,Success (SLC‑40),Success (LZ‑1),N/A,Retired,2
+B1025,4,FH-001,FH,2018-02-06,Success (LC‑39A),Success (LZ‑2),568 days,Retired,2
+B1026,4,F9-028,F9,2016-08-14,Success (SLC‑40),Success (OCISLY)[41],N/A,Retired,1
+B1027,4,N/A,N/A,Manufactured in 2016[42],N/A,N/A,N/A,N/A,1
+B1028,4,—[c],—[,2016-09-03,Precluded[46],Precluded,N/A,Destroyed,1
+B1029,4,F9-029,F9,2017-01-14,Success (SLC‑4E),Success (JRTI),N/A,Retired,2
+B1029,4,F9-036,F9,2017-06-23,Success (LC‑39A),Success (OCISLY)[49],160 days,Retired,2
+B1030,4,F9-031,F9,2017-03-16,Success (LC‑39A),No attempt[51],N/A,Expended,1
+B1031,4,F9-030,F9,2017-02-19,Success (LC‑39A),Success (LZ‑1)[53],N/A,Retired,2
+B1031,4,F9-043,F9,2017-10-11,Success (LC‑39A),Success (OCISLY),234 days,Retired,2
+B1032,4,F9-033,F9,2017-05-01,Success (LC‑39A),Success (LZ‑1),N/A,Expended,2
+B1032,4,F9-048,F9,2018-01-31,Success (SLC‑40),No attempt[d],275 days,Expended,2
+B1033,4,FH-001,FH,2018-02-06,Success (LC‑39A),Failure (OCISLY),N/A,Destroyed,1
+B1034,4,F9-034,F9,2017-05-15,Success (LC‑39A),No attempt[51],N/A,Expended,1
+B1035,4,F9-035,F9,2017-06-03,Success (LC‑39A),Success (LZ‑1),N/A,Retired,2
+B1035,4,F9-045,F9,2017-12-15,Success (SLC‑40),Success (LZ‑1)[63],195 days,Retired,2
+B1036,4,F9-037,F9,2017-06-25,Success (SLC‑4E),Success (JRTI),N/A,Expended,2
+B1036,4,F9-046,F9,2017-12-23,Success (SLC‑4E),No attempt,181 days,Expended,2
+B1037,4,F9-038,F9,2017-07-05,Success (LC‑39A),No attempt[51],N/A,Expended,1
+B1038,4,F9-040,F9,2017-08-24,Success (SLC‑4E),Success (JRTI),N/A,Expended,2
+B1038,4,F9-049,F9,2018-02-22,Success (SLC‑4E),No attempt[51],182 days,Expended,2
+B1039,4,F9-039,F9,2017-08-14,Success (LC‑39A),Success (LZ‑1),N/A,Expended,2
+B1039,4,F9-052,F9,2018-04-02,Success (SLC‑40),No attempt[70],231 days,Expended,2
+B1040,4,F9-041,F9,2017-09-07,Success (LC‑39A),Success (LZ‑1),N/A,Expended,2
+B1040,4,F9-056,F9,2018-06-04,Success (SLC‑40)[73],No attempt[51],270 days,Expended,2
+B1041,4,F9-042,F9,2017-10-09,Success (SLC‑4E),Success (JRTI),N/A,Expended,2
+B1041,4,F9-051,F9,2018-03-30,Success (SLC‑4E),No attempt[76],172 days,Expended,2
+B1042,4,F9-044,F9,2017-10-30,Success (LC‑39A),Success (OCISLY),N/A,Retired,1
+B1043,4,F9-047,F9,2018-01-08,Success (SLC‑40)[80],Success (LZ‑1),N/A,Expended,2
+B1043,4,F9-055,F9,2018-05-22,Success (SLC‑4E),No attempt[51],134 days,Expended,2
+B1044,4,F9-050,F9,2018-03-06,Success (SLC‑40),No attempt[69],N/A,Expended,1
+B1045,4,F9-053,F9,2018-04-18,Success (SLC‑40),Success (OCISLY),N/A,Expended,2
+B1045,4,F9-057,F9,2018-06-29,Success (SLC‑40)[81],No attempt[3],72 days,Expended,2
+B1046,5,F9-054,F9,2018-05-11,Success (LC‑39A),Success (OCISLY),N/A,Destroyed,4
+B1046,5,F9-060,F9,2018-08-07,Success (SLC‑40),Success (OCISLY),88 days,Destroyed,4
+B1046,5,F9-064,F9,2018-12-03,Success (SLC‑4E),Success (JRTI),118 days,Destroyed,4
+B1046,5,F9-079,F9,19 January 202,Success (LC‑39A),No attempt,412 days,Destroyed,4
+B1047,5,F9-058,F9,2018-07-22,Success (SLC‑40),Success (OCISLY),N/A,Expended,3
+B1047,5,F9-063,F9,2018-11-15,Success (LC‑39A),Success (OCISLY),116 days,Expended,3
+B1047,5,F9-074,F9,6 August 201,Success (SLC‑40),No attempt,263 days,Expended,3
+B1048,5,F9-059,F9,2018-07-25,Success (SLC‑4E),Success (JRTI),N/A,Destroyed,5
+B1048,5,F9-062,F9,2018-10-08,Success (SLC‑4E),Success (LZ‑4),75 days,Destroyed,5
+B1048,5,F9-068,F9,2019-02-22,Success (SLC‑40),Success (OCISLY),137 days,Destroyed,5
+B1048,5,F9-075,F9,2019-11-11,Success (SLC‑40),Success (OCISLY),262 days,Destroyed,5
+B1048,5,F9-083,F9,2020-03-18,Success (LC‑39A),Failure (OCISLY),128 days,Destroyed,5
+B1049,5,F9-061,F9,2018-09-10,Success (SLC‑40),Success (OCISLY),N/A,Expended,11
+B1049,5,F9-067,F9,2019-01-11,Success (SLC‑4E),Success (JRTI),123 days,Expended,11
+B1049,5,F9-071,F9,2019-05-24,Success (SLC‑40),Success (OCISLY),133 days,Expended,11
+B1049,5,F9-078,F9,2020-01-07,Success (SLC‑40),Success (OCISLY),228 days,Expended,11
+B1049,5,F9-086,F9,2020-06-04,Success (SLC‑40),Success (JRTI),149 days,Expended,11
+B1049,5,F9-091,F9,2020-08-18,Success (SLC‑40),Success (OCISLY),75 days,Expended,11
+B1049,5,F9-100,F9,2020-11-25,Success (SLC‑40),Success (OCISLY),99 days,Expended,11
+B1049,5,F9-109,F9,2021-03-04,Success (LC‑39A),Success (OCISLY),99 days,Expended,11
+B1049,5,F9-116,F9,2021-05-04,Success (LC‑39A),Success (OCISLY),61 days,Expended,11
+B1049,5,F9-125,F9,2021-09-14,Success (SLC‑4E),Success (OCISLY),133 days,Expended,11
+B1049,5,F9-186,F9,2022-11-23,Success (SLC‑40),No attempt,435 days,Expended,11
+B1050,5,F9-065,F9,2018-12-05,Success (SLC‑40),Failure (LZ‑1),N/A,Destroyed,1
+B1051,5,F9-069,F9,2019-03-02,Success (LC‑39A),Success (OCISLY),N/A,Expended,14
+B1051,5,F9-072,F9,2019-06-12,Success (SLC‑4E),Success (LZ‑4),102 days,Expended,14
+B1051,5,F9-080,F9,2020-01-29,Success (SLC‑40),Success (OCISLY),231 days,Expended,14
+B1051,5,F9-084,F9,2020-04-22,Success (LC‑39A),Success (OCISLY),84 days,Expended,14
+B1051,5,F9-090,F9,2020-08-07,Success (LC‑39A),Success (OCISLY),107 days,Expended,14
+B1051,5,F9-095,F9,2020-10-18,Success (LC‑39A),Success (OCISLY),72 days,Expended,14
+B1051,5,F9-102,F9,2020-12-13,Success (SLC‑40),Success (JRTI),56 days,Expended,14
+B1051,5,F9-105,F9,2021-01-20,Success (LC‑39A),Success (JRTI),38 days,Expended,14
+B1051,5,F9-111,F9,2021-03-14,Success (LC‑39A),Success (OCISLY),53 days,Expended,14
+B1051,5,F9-117,F9,2021-05-09,Success (SLC‑40),Success (JRTI),56 days,Expended,14
+B1051,5,F9-132,F9,18 December 2021[120],Success (SLC‑4E),Success (OCISLY),228 days,Expended,14
+B1051,5,F9-145,F9,2022-03-19,Success (SLC‑40),Success (JRTI),91 days,Expended,14
+B1051,5,F9-165,F9,2022-07-17,Success (SLC‑40),Success (JRTI),120 days,Expended,14
+B1051,5,F9-185,F9,2022-11-12,Success (SLC‑40),No attempt,118 days,Expended,14
+B1052,5,FH-002,FH,2019-04-11,Success (LC‑39A),Success (LZ‑1)[124],N/A,Expended,8
+B1052,5,FH-003,FH,2019-06-25,Success (LC‑39A),Success (LZ‑2)[124],75 days,Expended,8
+B1052,5,F9-138,F9,2022-01-31,Success (SLC‑40),Success (LZ‑1),951 days,Expended,8
+B1052,5,F9-144,F9,2022-03-09,Success (SLC‑40),Success (ASOG),37 days,Expended,8
+B1052,5,F9-155,F9,2022-05-18,Success (LC‑39A),Success (ASOG),70 days,Expended,8
+B1052,5,F9-168,F9,2022-08-04,Success (SLC‑40),Success (JRTI),78 days,Expended,8
+B1052,5,F9-174,F9,2022-09-05,Success (SLC‑40),Success (JRTI),32 days,Expended,8
+B1052,5,FH-006,FH,2023-05-01,Success (LC‑39A),No attempt[132],238 days,Expended,8
+B1053,5,FH-002,FH,2019-04-11,Success (LC‑39A),Success (LZ‑2)[124],N/A,Expended,3
+B1053,5,FH-003,FH,2019-06-25,Success (LC‑39A),Success (LZ‑1)[124],75 days,Expended,3
+B1053,5,FH-006,FH,2023-05-01,Success (LC‑39A),No attempt[132],1406 days,Expended,3
+B1054,5,F9-066,F9,2018-12-23,Success (SLC‑40),No attempt[135],N/A,Expended,1
+B1055,5,FH-002,FH,2019-04-11,Success (LC‑39A),Partial failure[g] (OCISLY),N/A,Destroyed,1
+B1056,5,F9-070,F9,2019-05-04,Success (SLC‑40),Success (OCISLY),N/A,Destroyed,4
+B1056,5,F9-073,F9,2019-07-25,Success (SLC‑40),Success (LZ‑1),82 days,Destroyed,4
+B1056,5,F9-077,F9,2019-12-17,Success (SLC‑40),Success (OCISLY),146 days,Destroyed,4
+B1056,5,F9-081,F9,2020-02-17,Success (SLC‑40),Failure (OCISLY),62 days,Destroyed,4
+B1057,5,FH-003,FH,2019-06-25,Success (LC‑39A),Failure (OCISLY),N/A,Destroyed,1
+B1058,5,F9-085,F9,2020-05-30,Success (LC‑39A),Success (OCISLY),N/A,Destroyed,19
+B1058,5,F9-089,F9,2020-07-20,Success (SLC‑40),Success (JRTI),51 days,Destroyed,19
+B1058,5,F9-094,F9,2020-10-06,Success (LC‑39A),Success (OCISLY),78 days,Destroyed,19
+B1058,5,F9-101,F9,2020-12-06,Success (LC‑39A),Success (OCISLY),60 days,Destroyed,19
+B1058,5,F9-106,F9,2021-01-24,Success (SLC‑40),Success (OCISLY),49 days,Destroyed,19
+B1058,5,F9-110,F9,2021-03-11,Success (SLC‑40),Success (JRTI),46 days,Destroyed,19
+B1058,5,F9-113,F9,2021-04-07,Success (SLC‑40),Success (OCISLY),27 days,Destroyed,19
+B1058,5,F9-118,F9,2021-05-15,Success (LC‑39A),Success (OCISLY),38 days,Destroyed,19
+B1058,5,F9-128,F9,2021-11-13,Success (SLC‑40),Success (JRTI),182 days,Destroyed,19
+B1058,5,F9-136,F9,2022-01-13,Success (SLC‑40),Success (LZ‑1),61 days,Destroyed,19
+B1058,5,F9-141,F9,2022-02-21,Success (SLC‑40),Success (ASOG),39 days,Destroyed,19
+B1058,5,F9-152,F9,2022-05-06,Success (LC‑39A),Success (ASOG),73 days,Destroyed,19
+B1058,5,F9-162,F9,2022-07-07,Success (SLC‑40),Success (JRTI),62 days,Destroyed,19
+B1058,5,F9-175,F9,2022-09-11,Success (LC‑39A),Success (ASOG),66 days,Destroyed,19
+B1058,5,F9-192,F9,2022-12-17,Success (LC‑39A),Success (JRTI),97 days,Destroyed,19
+B1058,5,F9-238,F9,2023-07-10,Success (SLC‑40),Success (JRTI),205 days,Destroyed,19
+B1058,5,F9-257,F9,2023-09-20,Success (SLC‑40),Success (ASOG),72 days,Destroyed,19
+B1058,5,F9-269,F9,2023-11-04,Success (SLC‑40),Success (ASOG),45 days,Destroyed,19
+B1058,5,F9-283,F9,2023-12-23,Success (SLC‑40),Partial failure[h] (JRTI),49 days,Destroyed,19
+B1059,5,F9-076,F9,2019-12-05,Success (SLC‑40),Success (OCISLY),N/A,Destroyed,6
+B1059,5,F9-082,F9,2020-03-07,Success (SLC‑40),Success (LZ‑1),93 days,Destroyed,6
+B1059,5,F9-087,F9,2020-06-13,Success (SLC‑40),Success (OCISLY),98 days,Destroyed,6
+B1059,5,F9-092,F9,2020-08-30,Success (SLC‑40),Success (LZ‑1),78 days,Destroyed,6
+B1059,5,F9-103,F9,2020-12-19,Success (LC‑39A),Success (LZ‑1),111 days,Destroyed,6
+B1059,5,F9-108,F9,2021-02-16,Success (SLC‑40),Failure (OCISLY),59 days,Destroyed,6
+B1060,5,F9-088,F9,2020-06-30,Success (SLC‑40),Success (JRTI),N/A,Expended,20
+B1060,5,F9-093,F9,2020-09-03,Success (LC‑39A),Success (OCISLY),65 days,Expended,20
+B1060,5,F9-096,F9,2020-10-24,Success (SLC‑40),Success (JRTI),51 days,Expended,20
+B1060,5,F9-104,F9,2021-01-08,Success (SLC‑40),Success (JRTI),76 days,Expended,20
+B1060,5,F9-107,F9,2021-02-04,Success (SLC‑40),Success (OCISLY),27 days,Expended,20
+B1060,5,F9-112,F9,2021-03-24,Success (SLC‑40),Success (OCISLY),48 days,Expended,20
+B1060,5,F9-115,F9,2021-04-29,Success (SLC‑40),Success (JRTI),36 days,Expended,20
+B1060,5,F9-123,F9,2021-06-30,Success (SLC‑40),Success (LZ‑1),62 days,Expended,20
+B1060,5,F9-130,F9,2021-12-02,Success (SLC‑40),Success (ASOG),155 days,Expended,20
+B1060,5,F9-137,F9,2022-01-19,Success (LC‑39A),Success (ASOG),48 days,Expended,20
+B1060,5,F9-143,F9,2022-03-03,Success (LC‑39A),Success (JRTI),43 days,Expended,20
+B1060,5,F9-149,F9,2022-04-21,Success (SLC‑40),Success (JRTI),49 days,Expended,20
+B1060,5,F9-158,F9,2022-06-17,Success (LC‑39A),Success (ASOG),57 days,Expended,20
+B1060,5,F9-180,F9,2022-10-08,Success (SLC‑40),Success (ASOG),113 days,Expended,20
+B1060,5,F9-195,F9,2023-01-03,Success (SLC‑40),Success (LZ‑1),87 days,Expended,20
+B1060,5,F9-239,F9,2023-07-16,Success (SLC‑40),Success (ASOG),194 days,Expended,20
+B1060,5,F9-258,F9,2023-09-24,Success (SLC‑40),Success (JRTI),70 days,Expended,20
+B1060,5,F9-299,F9,2024-02-15,Success (LC‑39A),Success (LZ‑1),144 days,Expended,20
+B1060,5,F9-313,F9,2024-03-24,Success (LC‑39A),Success (JRTI),38 days,Expended,20
+B1060,5,F9-327,F9,2024-04-28,Success (LC‑39A),No attempt,35 days,Expended,20
+B1061,5,F9-098,F9,2020-11-15,Success (LC‑39A),Success (JRTI),N/A,Expended,23
+B1061,5,F9-114,F9,2021-04-23,Success (LC‑39A),Success (OCISLY),159 days,Expended,23
+B1061,5,F9-121,F9,2021-06-06,Success (SLC‑40),Success (JRTI),44 days,Expended,23
+B1061,5,F9-124,F9,2021-08-29,Success (LC‑39A),Success (ASOG),84 days,Expended,23
+B1061,5,F9-131,F9,2021-12-09,Success (LC‑39A),Success (JRTI),102 days,Expended,23
+B1061,5,F9-140,F9,2022-02-03,Success (LC‑39A),Success (ASOG),56 days,Expended,23
+B1061,5,F9-146,F9,2022-04-01,Success (SLC‑40),Success (JRTI),57 days,Expended,23
+B1061,5,F9-156,F9,2022-05-25,Success (SLC‑40),Success (LZ‑1),54 days,Expended,23
+B1061,5,F9-160,F9,2022-06-19,Success (SLC‑40),Success (JRTI),25 days,Expended,23
+B1061,5,F9-170,F9,2022-08-12,Success (SLC‑4E),Success (OCISLY),54 days,Expended,23
+B1061,5,F9-194,F9,2022-12-30,Success (SLC‑4E),Success (LZ‑4),140 days,Expended,23
+B1061,5,F9-208,F9,2023-03-03,Success (SLC‑4E),Success (OCISLY),63 days,Expended,23
+B1061,5,F9-219,F9,2023-04-27,Success (SLC‑4E),Success (OCISLY),55 days,Expended,23
+B1061,5,F9-228,F9,2023-05-31,Success (SLC‑4E),Success (OCISLY),34 days,Expended,23
+B1061,5,F9-248,F9,2023-08-22,Success (SLC‑4E),Success (OCISLY),83 days,Expended,23
+B1061,5,F9-265,F9,2023-10-21,Success (SLC‑4E),Success (OCISLY),60 days,Expended,23
+B1061,5,F9-278,F9,2023-12-01,Success (SLC‑4E),Success (LZ‑4),41 days,Expended,23
+B1061,5,F9-289,F9,2024-01-14,Success (SLC‑4E),Success (OCISLY),44 days,Expended,23
+B1061,5,F9-302,F9,2024-02-23,Success (SLC‑4E),Success (OCISLY),40 days,Expended,23
+B1061,5,F9-329,F9,2024-05-02,Success (SLC‑4E),Success (LZ‑4),69 days,Expended,23
+B1061,5,F9-345,F9,2024-06-08,Success (SLC‑4E),Success (OCISLY),37 days,Expended,23
+B1061,5,F9-362,F9,2024-08-12,Success (SLC‑4E),Success (OCISLY),65 days,Expended,23
+B1061,5,F9-379,F9,2024-10-07,Success (SLC‑40),No attempt,56 days,Expended,23
+B1062,5,F9-097,F9,2020-11-05,Success (SLC‑40),Success (OCISLY),N/A,Destroyed,23
+B1062,5,F9-122,F9,2021-06-17,Success (SLC‑40),Success (JRTI),224 days,Destroyed,23
+B1062,5,F9-126,F9,2021-09-16,Success (LC‑39A),Success (JRTI),91 days,Destroyed,23
+B1062,5,F9-135,F9,2022-01-06,Success (LC‑39A),Success (ASOG),112 days,Destroyed,23
+B1062,5,F9-147,F9,2022-04-08,Success (LC‑39A),Success (ASOG),92 days,Destroyed,23
+B1062,5,F9-151,F9,2022-04-29,Success (SLC‑40),Success (JRTI),21 days,Destroyed,23
+B1062,5,F9-157,F9,2022-06-08,Success (SLC‑40),Success (JRTI),40 days,Destroyed,23
+B1062,5,F9-167,F9,2022-07-24,Success (LC‑39A),Success (ASOG),46 days,Destroyed,23
+B1062,5,F9-171,F9,2022-08-19,Success (SLC‑40),Success (ASOG),26 days,Destroyed,23
+B1062,5,F9-182,F9,2022-10-20,Success (SLC‑40),Success (ASOG),62 days,Destroyed,23
+B1062,5,F9-193,F9,2022-12-28,Success (SLC‑40),Success (ASOG),69 days,Destroyed,23
+B1062,5,F9-203,F9,2023-02-12,Success (SLC‑40),Success (ASOG),46 days,Destroyed,23
+B1062,5,F9-209,F9,2023-03-09,Success (SLC‑40),Success (LZ‑1),25 days,Destroyed,23
+B1062,5,F9-227,F9,2023-05-27,Success (SLC‑40),Success (JRTI),79 days,Destroyed,23
+B1062,5,F9-242,F9,2023-07-28,Success (SLC‑40),Success (ASOG),62 days,Destroyed,23
+B1062,5,F9-264,F9,2023-10-18,Success (SLC‑40),Success (JRTI),82 days,Destroyed,23
+B1062,5,F9-277,F9,2023-11-28,Success (SLC‑40),Success (JRTI),41 days,Destroyed,23
+B1062,5,F9-293,F9,2024-01-29,Success (LC‑39A),Success (ASOG),62 days,Destroyed,23
+B1062,5,F9-310,F9,2024-03-16,Success (LC‑39A),Success (ASOG),47 days,Destroyed,23
+B1062,5,F9-323,F9,2024-04-13,Success (SLC‑40),Success (ASOG),28 days,Destroyed,23
+B1062,5,F9-336,F9,2024-05-18,Success (SLC‑40),Success (ASOG),35 days,Destroyed,23
+B1062,5,F9-350,F9,2024-06-27,Success (SLC‑40),Success (JRTI),40 days,Destroyed,23
+B1062,5,F9-367,F9,2024-08-28,Success (SLC‑40),Failure (ASOG),62 days,Destroyed,23
+B1064,5,FH-004,FH,2022-11-01,Success (LC‑39A),Success (LZ‑1)[185],N/A,Expended,6
+B1064,5,FH-005,FH,2023-01-15,Success (LC‑39A),Success (LZ‑2)[188],75 days,Expended,6
+B1064,5,FH-007,FH,2023-07-29,Success (LC‑39A),Success (LZ‑1),195 days,Expended,6
+B1064,5,FH-008,FH,2023-10-13,Success (LC‑39A),Success (LZ‑1),76 days,Expended,6
+B1064,5,FH-009,FH,2023-12-29,Success (LC‑39A),Success (LZ‑1),77 days,Expended,6
+B1064,5,FH-011,FH,2024-10-14,Success (LC‑39A),No attempt,290 days,Expended,6
+B1065,5,FH-004,FH,2022-11-01,Success (LC‑39A),Success (LZ‑2)[185],N/A,Expended,6
+B1065,5,FH-005,FH,2023-01-15,Success (LC‑39A),Success (LZ‑1)[188],75 days,Expended,6
+B1065,5,FH-007,FH,2023-07-29,Success (LC‑39A),Success (LZ‑2),195 days,Expended,6
+B1065,5,FH-008,FH,2023-10-13,Success (LC‑39A),Success (LZ‑2),76 days,Expended,6
+B1065,5,FH-009,FH,2023-12-29,Success (LC‑39A),Success (LZ‑2),77 days,Expended,6
+B1065,5,FH-011,FH,2024-10-14,Success (LC‑39A),No attempt,290 days,Expended,6
+B1066,5,FH-004,FH,2022-11-01,Success (LC‑39A),No attempt,N/A,Expended,1
+B1068,5,FH-006,FH,2023-05-01,Success (LC‑39A),No attempt,N/A,Expended,1
+B1070,5,FH-005,FH,2023-01-15,Success (LC‑39A),No attempt,N/A,Expended,1
+B1073,5,F9-154,F9,2022-05-14,Success (SLC‑40),Success (JRTI),N/A,Expended,21
+B1073,5,F9-161,F9,2022-06-29,Success (SLC‑40),Success (ASOG),46 days,Expended,21
+B1073,5,F9-169,F9,2022-08-10,Success (LC‑39A),Success (ASOG),42 days,Expended,21
+B1073,5,F9-177,F9,2022-09-24,Success (SLC‑40),Success (ASOG),45 days,Expended,21
+B1073,5,F9-189,F9,2022-12-11,Success (SLC‑40),Success (LZ‑2),78 days,Expended,21
+B1073,5,F9-202,F9,2023-02-07,Success (SLC‑40),Success (JRTI),58 days,Expended,21
+B1073,5,F9-210,F9,2023-03-15,Success (LC‑39A),Success (ASOG),36 days,Expended,21
+B1073,5,F9-218,F9,2023-04-19,Success (SLC‑40),Success (ASOG),35 days,Expended,21
+B1073,5,F9-231,F9,2023-06-12,Success (SLC‑40),Success (JRTI),54 days,Expended,21
+B1073,5,F9-253,F9,2023-09-04,Success (LC‑39A),Success (JRTI),84 days,Expended,21
+B1073,5,F9-270,F9,2023-11-08,Success (SLC‑40),Success (JRTI),65 days,Expended,21
+B1073,5,F9-290,F9,2024-01-15,Success (SLC‑40),Success (ASOG),68 days,Expended,21
+B1073,5,F9-307,F9,2024-03-04,Success (SLC‑40),Success (ASOG),49 days,Expended,21
+B1073,5,F9-320,F9,2024-04-07,Success (LC‑39A),Success (LZ‑1),34 days,Expended,21
+B1073,5,F9-334,F9,2024-05-13,Success (SLC‑40),Success (ASOG),36 days,Expended,21
+B1073,5,F9-352,F9,2024-07-03,Success (SLC‑40),Success (ASOG),51 days,Expended,21
+B1073,5,F9-363,F9,2024-08-12,Success (LC‑39A),Success (ASOG),40 days,Expended,21
+B1073,5,F9-384,F9,2024-10-23,Success (SLC‑40),Success (ASOG),72 days,Expended,21
+B1073,5,F9-398,F9,2024-11-18,Success (SLC‑40),Success (JRTI),26 days,Expended,21
+B1073,5,F9-418,F9,2025-01-04,Success (SLC‑40),Success (ASOG),47 days,Expended,21
+B1073,5,F9-430,F9,2025-01-30,Success (LC‑39A),No attempt,26 days,Expended,21
+B1074,5,FH-007,FH,2023-07-29,Success (LC‑39A),No attempt,N/A,Expended,1
+B1079,5,FH-008,FH,2023-10-13,Success (LC‑39A),No attempt,N/A,Expended,1
+B1084,5,FH-009,FH,2023-12-29,Success (LC‑39A),No attempt,N/A,Expended,1
+B1086,5,FH-010,FH,2024-06-25,Success (LC‑39A),Success (LZ‑1),N/A,Destroyed,5
+B1086,5,F9-408,F9,2024-12-08,Success (SLC‑40),Success (ASOG),166 days,Destroyed,5
+B1086,5,F9-420,F9,2025-01-08,Success (LC‑39A),Success (ASOG),31 days,Destroyed,5
+B1086,5,F9-433,F9,2025-02-04,Success (LC‑39A),Success (LZ‑1),27 days,Destroyed,5
+B1086,5,F9-443,F9,2025-03-03,Success (SLC‑40),Failure[j] (JRTI),27 days,Destroyed,5
+B1087,5,FH-010,FH,2024-06-25,Success (LC‑39A),No attempt,N/A,Expended,1
+B1089,5,FH-011,FH,2024-10-14,Success (LC‑39A),No attempt,N/A,Expended,1
+B1063,5,F9-099,F9,2020-11-21,Success (SLC‑4E),Success (LZ‑4),N/A,Awaiting Assignment,24
+B1063,5,F9-119,F9,2021-05-26,Success (SLC‑40),Success (JRTI),186 days,Awaiting Assignment,24
+B1063,5,F9-129,F9,2021-11-24,Success (SLC‑4E),Success (OCISLY),182 days,Awaiting Assignment,24
+B1063,5,F9-142,F9,2022-02-25,Success (SLC‑4E),Success (OCISLY),93 days,Awaiting Assignment,24
+B1063,5,F9-153,F9,2022-05-14,Success (SLC‑4E),Success (OCISLY),78 days,Awaiting Assignment,24
+B1063,5,F9-163,F9,2022-07-11,Success (SLC‑4E),Success (OCISLY),58 days,Awaiting Assignment,24
+B1063,5,F9-173,F9,2022-08-31,Success (SLC‑4E),Success (OCISLY),51 days,Awaiting Assignment,24
+B1063,5,F9-183,F9,2022-10-28,Success (SLC‑4E),Success (OCISLY),58 days,Awaiting Assignment,24
+B1063,5,F9-204,F9,2023-02-17,Success (SLC‑4E),Success (OCISLY),112 days,Awaiting Assignment,24
+B1063,5,F9-217,F9,2023-04-15,Success (SLC‑4E),Success (LZ‑4),57 days,Awaiting Assignment,24
+B1063,5,F9-225,F9,2023-05-20,Success (SLC‑4E),Success (OCISLY),35 days,Awaiting Assignment,24
+B1063,5,F9-237,F9,2023-07-07,Success (SLC‑4E),Success (OCISLY),48 days,Awaiting Assignment,24
+B1063,5,F9-252,F9,2023-09-02,Success (SLC‑4E),Success (LZ‑4),57 days,Awaiting Assignment,24
+B1063,5,F9-262,F9,2023-10-09,Success (SLC‑4E),Success (OCISLY),37 days,Awaiting Assignment,24
+B1063,5,F9-275,F9,2023-11-20,Success (SLC‑4E),Success (OCISLY),42 days,Awaiting Assignment,24
+B1063,5,F9-292,F9,2024-01-24,Success (SLC‑4E),Success (OCISLY),65 days,Awaiting Assignment,24
+B1063,5,F9-309,F9,2024-03-11,Success (SLC‑4E),Success (OCISLY),47 days,Awaiting Assignment,24
+B1063,5,F9-335,F9,2024-05-14,Success (SLC‑4E),Success (OCISLY),64 days,Awaiting Assignment,24
+B1063,5,F9-354,F9,2024-07-12,Failure[c] (SLC‑4E),Success (OCISLY),59 days,Awaiting Assignment,24
+B1063,5,F9-371,F9,2024-09-06,Success (SLC‑4E),Success (OCISLY),56 days,Awaiting Assignment,24
+B1063,5,F9-385,F9,2024-10-24,Success (SLC‑4E),Success (OCISLY),48 days,Awaiting Assignment,24
+B1063,5,F9-411,F9,2024-12-17,Success (SLC‑4E),Success (OCISLY),54 days,Awaiting Assignment,24
+B1063,5,F9-428,F9,2025-01-24,Success (SLC‑4E),Success (OCISLY),38 days,Awaiting Assignment,24
+B1063,5,F9-452,F9,2025-03-26,Success (SLC‑4E),Success (OCISLY),61 days,Awaiting Assignment,24
+B1067,5,F9-120,F9,2021-06-03,Success (LC‑39A),Success (OCISLY),N/A,At Port Canaveral,27
+B1067,5,F9-127,F9,2021-11-11,Success (LC‑39A),Success (ASOG)[207],161 days,At Port Canaveral,27
+B1067,5,F9-133,F9,2021-12-19,Success (SLC‑40),Success (ASOG),38 days,At Port Canaveral,27
+B1067,5,F9-150,F9,2022-04-27,Success (LC‑39A),Success (ASOG),129 days,At Port Canaveral,27
+B1067,5,F9-164,F9,2022-07-14,Success (LC‑39A),Success (ASOG),78 days,At Port Canaveral,27
+B1067,5,F9-176,F9,2022-09-19,Success (SLC‑40),Success (JRTI),67 days,At Port Canaveral,27
+B1067,5,F9-184,F9,2022-11-03,Success (SLC‑40),Success (JRTI),45 days,At Port Canaveral,27
+B1067,5,F9-191,F9,2022-12-16,Success (SLC‑40),Success (ASOG),43 days,At Port Canaveral,27
+B1067,5,F9-199,F9,2023-01-26,Success (SLC‑40),Success (JRTI),41 days,At Port Canaveral,27
+B1067,5,F9-213,F9,2023-03-24,Success (SLC‑40),Success (ASOG),57 days,At Port Canaveral,27
+B1067,5,F9-223,F9,2023-05-14,Success (SLC‑40),Success (JRTI),51 days,At Port Canaveral,27
+B1067,5,F9-233,F9,2023-06-18,Success (SLC‑40),Success (ASOG),35 days,At Port Canaveral,27
+B1067,5,F9-247,F9,2023-08-17,Success (SLC‑40),Success (ASOG),60 days,At Port Canaveral,27
+B1067,5,F9-263,F9,2023-10-13,Success (SLC‑40),Success (ASOG),57 days,At Port Canaveral,27
+B1067,5,F9-276,F9,2023-11-22,Success (SLC‑40),Success (ASOG),40 days,At Port Canaveral,27
+B1067,5,F9-288,F9,2024-01-07,Success (SLC‑40),Success (ASOG),46 days,At Port Canaveral,27
+B1067,5,F9-301,F9,2024-02-20,Success (SLC‑40),Success (JRTI),44 days,At Port Canaveral,27
+B1067,5,F9-316,F9,2024-03-31,Success (SLC‑40),Success (ASOG),40 days,At Port Canaveral,27
+B1067,5,F9-330,F9,2024-05-03,Success (SLC‑40),Success (ASOG),33 days,At Port Canaveral,27
+B1067,5,F9-343,F9,2024-06-05,Success (SLC‑40),Success (JRTI),33 days,At Port Canaveral,27
+B1067,5,F9-361,F9,2024-08-10,Success (SLC‑40),Success (JRTI),66 days,At Port Canaveral,27
+B1067,5,F9-375,F9,2024-09-18,Success (SLC‑40),Success (JRTI),39 days,At Port Canaveral,27
+B1067,5,F9-392,F9,2024-11-11,Success (LC‑39A),Success (LZ‑1),54 days,At Port Canaveral,27
+B1067,5,F9-405,F9,2024-12-04,Success (SLC‑40),Success (ASOG),23 days,At Port Canaveral,27
+B1067,5,F9-422,F9,2025-01-10,Success (SLC‑40),Success (JRTI),37 days,At Port Canaveral,27
+B1067,5,F9-437,F9,2025-02-15,Success (SLC‑40),Success (ASOG),36 days,At Port Canaveral,27
+B1067,5,F9-460,F9,2025-04-14,Success (SLC‑40),Success (JRTI),58 days,At Port Canaveral,27
+B1069,5,F9-134,F9,2021-12-21,Success (LC‑39A),Success (JRTI),N/A,Awaiting Assignment,22
+B1069,5,F9-172,F9,2022-08-28,Success (SLC‑40),Success (ASOG),250 days,Awaiting Assignment,22
+B1069,5,F9-181,F9,2022-10-15,Success (SLC‑40),Success (JRTI),48 days,Awaiting Assignment,22
+B1069,5,F9-188,F9,2022-12-08,Success (LC‑39A),Success (LZ‑1),54 days,Awaiting Assignment,22
+B1069,5,F9-201,F9,2023-02-02,Success (LC‑39A),Success (ASOG),56 days,Awaiting Assignment,22
+B1069,5,F9-212,F9,2023-03-17,Success (SLC‑40),Success (JRTI),43 days,Awaiting Assignment,22
+B1069,5,F9-221,F9,2023-05-04,Success (SLC‑40),Success (ASOG),48 days,Awaiting Assignment,22
+B1069,5,F9-235,F9,2023-06-23,Success (SLC‑40),Success (JRTI),50 days,Awaiting Assignment,22
+B1069,5,F9-246,F9,2023-08-11,Success (SLC‑40),Success (JRTI),49 days,Awaiting Assignment,22
+B1069,5,F9-260,F9,2023-09-30,Success (SLC‑40),Success (ASOG),50 days,Awaiting Assignment,22
+B1069,5,F9-274,F9,2023-11-18,Success (SLC‑40),Success (JRTI),49 days,Awaiting Assignment,22
+B1069,5,F9-285,F9,2023-12-29,Success (SLC‑40),Success (ASOG),41 days,Awaiting Assignment,22
+B1069,5,F9-303,F9,2024-02-25,Success (SLC‑40),Success (ASOG),58 days,Awaiting Assignment,22
+B1069,5,F9-318,F9,2024-04-05,Success (SLC‑40),Success (ASOG),40 days,Awaiting Assignment,22
+B1069,5,F9-331,F9,2024-05-06,Success (SLC‑40),Success (JRTI),31 days,Awaiting Assignment,22
+B1069,5,F9-344,F9,2024-06-08,Success (SLC‑40),Success (ASOG),33 days,Awaiting Assignment,22
+B1069,5,F9-355,F9,2024-07-27,Success (LC‑39A),Success (JRTI),49 days,Awaiting Assignment,22
+B1069,5,F9-368,F9,2024-08-31,Success (SLC‑40),Success (JRTI),35 days,Awaiting Assignment,22
+B1069,5,F9-386,F9,2024-10-26,Success (SLC‑40),Success (JRTI),56 days,Awaiting Assignment,22
+B1069,5,F9-399,F9,2024-11-21,Success (SLC‑40),Success (ASOG),26 days,Awaiting Assignment,22
+B1069,5,F9-432,F9,2025-02-04,Success (SLC‑40),Success (JRTI),75 days,Awaiting Assignment,22
+B1069,5,F9-445,F9,2025-03-13,Success (SLC‑40),Success (ASOG),37 days,Awaiting Assignment,22
+B1071,5,F9-139,F9,2022-02-02,Success (SLC‑4E),Success (LZ‑4),N/A,At Port of Long Beach,24
+B1071,5,F9-148,F9,2022-04-17,Success (SLC‑4E),Success (LZ‑4),74 days,At Port of Long Beach,24
+B1071,5,F9-159,F9,2022-06-18,Success (SLC‑4E),Success (LZ‑4),62 days,At Port of Long Beach,24
+B1071,5,F9-166,F9,2022-07-22,Success (SLC‑4E),Success (OCISLY),34 days,At Port of Long Beach,24
+B1071,5,F9-179,F9,2022-10-05,Success (SLC‑4E),Success (OCISLY),75 days,At Port of Long Beach,24
+B1071,5,F9-190,F9,2022-12-16,Success (SLC‑4E),Success (LZ‑4),72 days,At Port of Long Beach,24
+B1071,5,F9-200,F9,2023-01-31,Success (SLC‑4E),Success (OCISLY),46 days,At Port of Long Beach,24
+B1071,5,F9-211,F9,2023-03-17,Success (SLC‑4E),Success (OCISLY),45 days,At Port of Long Beach,24
+B1071,5,F9-232,F9,2023-06-12,Success (SLC‑4E),Success (LZ‑4),87 days,At Port of Long Beach,24
+B1071,5,F9-240,F9,2023-07-20,Success (SLC‑4E),Success (OCISLY),38 days,At Port of Long Beach,24
+B1071,5,F9-255,F9,2023-09-12,Success (SLC‑4E),Success (OCISLY),54 days,At Port of Long Beach,24
+B1071,5,F9-272,F9,2023-11-11,Success (SLC‑4E),Success (LZ‑4),60 days,At Port of Long Beach,24
+B1071,5,F9-281,F9,2023-12-08,Success (SLC‑4E),Success (OCISLY),27 days,At Port of Long Beach,24
+B1071,5,F9-297,F9,2024-02-10,Success (SLC‑4E),Success (OCISLY),64 days,At Port of Long Beach,24
+B1071,5,F9-317,F9,2024-04-02,Success (SLC‑4E),Success (OCISLY),52 days,At Port of Long Beach,24
+B1071,5,F9-337,F9,2024-05-22,Success (SLC‑4E),Success (OCISLY),50 days,At Port of Long Beach,24
+B1071,5,F9-357,F9,2024-07-28,Success (SLC‑4E),Success (OCISLY),67 days,At Port of Long Beach,24
+B1071,5,F9-374,F9,2024-09-13,Success (SLC‑4E),Success (OCISLY),47 days,At Port of Long Beach,24
+B1071,5,F9-381,F9,2024-10-15,Success (SLC‑4E),Success (OCISLY),32 days,At Port of Long Beach,24
+B1071,5,F9-397,F9,2024-11-18,Success (SLC‑4E),Success (OCISLY),34 days,At Port of Long Beach,24
+B1071,5,F9-413,F9,2024-12-21,Success (SLC‑4E),Success (LZ‑4),33 days,At Port of Long Beach,24
+B1071,5,F9-421,F9,2025-01-10,Success (SLC‑4E),Success (OCISLY),20 days,At Port of Long Beach,24
+B1071,5,F9-435,F9,2025-02-11,Success (SLC‑4E),Success (OCISLY),32 days,At Port of Long Beach,24
+B1071,5,F9-458,F9,2025-04-12,Success (SLC‑4E),Success (OCISLY),60 days,At Port of Long Beach,24
+B1072,5,FH-010,FH,2024-06-25,Success (LC‑39A),Success (LZ‑2),N/A,Awaiting Assignment,1
+B1075,5,F9-198,F9,2023-01-19,Success (SLC‑4E),Success (OCISLY),N/A,Awaiting Assignment,17
+B1075,5,F9-215,F9,2023-04-02,Success (SLC‑4E),Success (LZ‑4),73 days,Awaiting Assignment,17
+B1075,5,F9-222,F9,2023-05-10,Success (SLC‑4E),Success (OCISLY),38 days,Awaiting Assignment,17
+B1075,5,F9-234,F9,2023-06-22,Success (SLC‑4E),Success (OCISLY),43 days,Awaiting Assignment,17
+B1075,5,F9-245,F9,2023-08-08,Success (SLC‑4E),Success (OCISLY),47 days,Awaiting Assignment,17
+B1075,5,F9-259,F9,2023-09-25,Success (SLC‑4E),Success (OCISLY),48 days,Awaiting Assignment,17
+B1075,5,F9-267,F9,2023-10-29,Success (SLC‑4E),Success (OCISLY),34 days,Awaiting Assignment,17
+B1075,5,F9-284,F9,2023-12-24,Success (SLC‑4E),Success (LZ‑4),56 days,Awaiting Assignment,17
+B1075,5,F9-294,F9,2024-01-29,Success (SLC‑4E),Success (OCISLY),36 days,Awaiting Assignment,17
+B1075,5,F9-311,F9,2024-03-19,Success (SLC‑4E),Success (OCISLY),50 days,Awaiting Assignment,17
+B1075,5,F9-349,F9,2024-06-24,Success (SLC‑4E),Success (OCISLY),97 days,Awaiting Assignment,17
+B1075,5,F9-365,F9,2024-08-16,Success (SLC‑4E),Success (LZ‑4),53 days,Awaiting Assignment,17
+B1075,5,F9-376,F9,2024-09-20,Success (SLC‑4E),Success (OCISLY),35 days,Awaiting Assignment,17
+B1075,5,F9-387,F9,2024-10-30,Success (SLC‑4E),Success (OCISLY),40 days,Awaiting Assignment,17
+B1075,5,F9-400,F9,2024-11-24,Success (SLC‑4E),Success (OCISLY),25 days,Awaiting Assignment,17
+B1075,5,F9-415,F9,2024-12-29,Success (SLC‑4E),Success (OCISLY),35 days,Awaiting Assignment,17
+B1075,5,F9-431,F9,2025-02-01,Success (SLC‑4E),Success (OCISLY),34 days,Awaiting Assignment,17
+B1076,5,F9-187,F9,2022-11-26,Success (LC‑39A),Success (JRTI),N/A,Awaiting Assignment,21
+B1076,5,F9-196,F9,2023-01-10,Success (SLC‑40),Success (LZ‑1),45 days,Awaiting Assignment,21
+B1076,5,F9-206,F9,2023-02-27,Success (SLC‑40),Success (ASOG),48 days,Awaiting Assignment,21
+B1076,5,F9-216,F9,2023-04-07,Success (SLC‑40),Success (ASOG),39 days,Awaiting Assignment,21
+B1076,5,F9-224,F9,2023-05-19,Success (SLC‑40),Success (ASOG),42 days,Awaiting Assignment,21
+B1076,5,F9-241,F9,2023-07-24,Success (SLC‑40),Success (JRTI),66 days,Awaiting Assignment,21
+B1076,5,F9-254,F9,2023-09-09,Success (SLC‑40),Success (ASOG),47 days,Awaiting Assignment,21
+B1076,5,F9-261,F9,2023-10-05,Success (SLC‑40),Success (JRTI),26 days,Awaiting Assignment,21
+B1076,5,F9-273,F9,2023-11-12,Success (SLC‑40),Success (ASOG),38 days,Awaiting Assignment,21
+B1076,5,F9-287,F9,2024-01-03,Success (SLC‑40),Success (LZ‑1),52 days,Awaiting Assignment,21
+B1076,5,F9-304,F9,2024-02-29,Success (SLC‑40),Success (JRTI),57 days,Awaiting Assignment,21
+B1076,5,F9-315,F9,2024-03-30,Success (LC‑39A),Success (JRTI),30 days,Awaiting Assignment,21
+B1076,5,F9-328,F9,2024-04-28,Success (SLC‑40),Success (JRTI),29 days,Awaiting Assignment,21
+B1076,5,F9-342,F9,2024-06-01,Success (SLC‑40),Success (ASOG),34 days,Awaiting Assignment,21
+B1076,5,F9-353,F9,2024-07-08,Success (SLC‑40),Success (JRTI),37 days,Awaiting Assignment,21
+B1076,5,F9-364,F9,2024-08-15,Success (SLC‑40),Success (LZ‑1),38 days,Awaiting Assignment,21
+B1076,5,F9-382,F9,2024-10-18,Success (SLC‑40),Success (JRTI),64 days,Awaiting Assignment,21
+B1076,5,F9-395,F9,2024-11-14,Success (SLC‑40),Success (JRTI),27 days,Awaiting Assignment,21
+B1076,5,F9-407,F9,2024-12-05,Success (LC‑39A),Success (JRTI),21 days,Awaiting Assignment,21
+B1076,5,F9-429,F9,2025-01-27,Success (SLC‑40),Success (ASOG),53 days,Awaiting Assignment,21
+B1076,5,F9-439,F9,2025-02-21,Success (SLC‑40),Success (ASOG),25 days,Awaiting Assignment,21
+B1077,5,F9-178,F9,2022-10-05,Success (LC‑39A),Success (JRTI),N/A,Awaiting Assignment,19
+B1077,5,F9-197,F9,2023-01-18,Success (SLC‑40),Success (ASOG),105 days,Awaiting Assignment,19
+B1077,5,F9-205,F9,2023-02-18,Success (SLC‑40),Success (JRTI),31 days,Awaiting Assignment,19
+B1077,5,F9-214,F9,2023-03-29,Success (SLC‑40),Success (JRTI),39 days,Awaiting Assignment,19
+B1077,5,F9-230,F9,2023-06-05,Success (LC‑39A),Success (ASOG),68 days,Awaiting Assignment,19
+B1077,5,F9-243,F9,2023-08-03,Success (SLC‑40),Success (JRTI),59 days,Awaiting Assignment,19
+B1077,5,F9-251,F9,2023-09-01,Success (SLC‑40),Success (ASOG),29 days,Awaiting Assignment,19
+B1077,5,F9-268,F9,2023-10-30,Success (SLC‑40),Success (JRTI),59 days,Awaiting Assignment,19
+B1077,5,F9-280,F9,2023-12-07,Success (SLC‑40),Success (JRTI),38 days,Awaiting Assignment,19
+B1077,5,F9-295,F9,2024-01-30,Success (SLC‑40),Success (LZ‑1),54 days,Awaiting Assignment,19
+B1077,5,F9-308,F9,2024-03-10,Success (SLC‑40),Success (JRTI),40 days,Awaiting Assignment,19
+B1077,5,F9-324,F9,2024-04-17,Success (LC‑39A),Success (JRTI),38 days,Awaiting Assignment,19
+B1077,5,F9-339,F9,2024-05-24,Success (LC‑39A),Success (JRTI),37 days,Awaiting Assignment,19
+B1077,5,F9-356,F9,2024-07-28,Success (SLC‑40),Success (ASOG),65 days,Awaiting Assignment,19
+B1077,5,F9-370,F9,2024-09-05,Success (SLC‑40),Success (JRTI),39 days,Awaiting Assignment,19
+B1077,5,F9-396,F9,2024-11-17,Success (LC‑39A),Success (ASOG),73 days,Awaiting Assignment,19
+B1077,5,F9-419,F9,2025-01-06,Success (SLC‑40),Success (JRTI),50 days,Awaiting Assignment,19
+B1077,5,F9-436,F9,2025-02-11,Success (SLC‑40),Success (JRTI),36 days,Awaiting Assignment,19
+B1077,5,F9-449,F9,2025-03-18,Success (SLC‑40),Success (ASOG),35 days,Awaiting Assignment,19
+B1078,5,F9-207,F9,2023-03-02,Success (LC‑39A),Success (JRTI),N/A,Awaiting Assignment,19
+B1078,5,F9-220,F9,2023-04-28,Success (SLC‑40),Success (JRTI),57 days,Awaiting Assignment,19
+B1078,5,F9-229,F9,2023-06-04,Success (SLC‑40),Success (JRTI),37 days,Awaiting Assignment,19
+B1078,5,F9-244,F9,2023-08-07,Success (SLC‑40),Success (ASOG),64 days,Awaiting Assignment,19
+B1078,5,F9-256,F9,2023-09-16,Success (SLC‑40),Success (JRTI),40 days,Awaiting Assignment,19
+B1078,5,F9-279,F9,2023-12-03,Success (SLC‑40),Success (ASOG),78 days,Awaiting Assignment,19
+B1078,5,F9-298,F9,2024-02-14,Success (SLC‑40),Success (LZ‑2),73 days,Awaiting Assignment,19
+B1078,5,F9-314,F9,2024-03-25,Success (SLC‑40),Success (ASOG),40 days,Awaiting Assignment,19
+B1078,5,F9-326,F9,2024-04-23,Success (SLC‑40),Success (JRTI),29 days,Awaiting Assignment,19
+B1078,5,F9-340,F9,2024-05-28,Success (SLC‑40),Success (ASOG),35 days,Awaiting Assignment,19
+B1078,5,F9-348,F9,2024-06-23,Success (SLC‑40),Success (ASOG),26 days,Awaiting Assignment,19
+B1078,5,F9-358,F9,2024-08-02,Success (LC‑39A),Success (ASOG),40 days,Awaiting Assignment,19
+B1078,5,F9-373,F9,2024-09-12,Success (SLC‑40),Success (LZ‑1),41 days,Awaiting Assignment,19
+B1078,5,F9-388,F9,2024-10-30,Success (SLC‑40),Success (ASOG),48 days,Awaiting Assignment,19
+B1078,5,F9-402,F9,2024-11-27,Success (LC‑39A),Success (ASOG),28 days,Awaiting Assignment,19
+B1078,5,F9-417,F9,2024-12-31,Success (LC‑39A),Success (JRTI),34 days,Awaiting Assignment,19
+B1078,5,F9-434,F9,2025-02-08,Success (SLC‑40),Success (ASOG),39 days,Awaiting Assignment,19
+B1078,5,F9-448,F9,2025-03-15,Success (SLC‑40),Success (JRTI),35 days,Awaiting Assignment,19
+B1078,5,F9-456,F9,2025-04-06,Success (SLC‑40),Success (JRTI),22 days,Awaiting Assignment,19
+B1080,5,F9-226,F9,2023-05-21,Success (LC‑39A),Success (LZ‑1),N/A,Awaiting Assignment,17
+B1080,5,F9-236,F9,2023-07-01,Success (SLC‑40),Success (ASOG),41 days,Awaiting Assignment,17
+B1080,5,F9-250,F9,2023-08-27,Success (SLC‑40),Success (JRTI),57 days,Awaiting Assignment,17
+B1080,5,F9-266,F9,2023-10-22,Success (SLC‑40),Success (ASOG),56 days,Awaiting Assignment,17
+B1080,5,F9-291,F9,2024-01-18,Success (LC‑39A),Success (LZ‑1),88 days,Awaiting Assignment,17
+B1080,5,F9-312,F9,2024-03-21,Success (SLC‑40),Success (LZ‑1),63 days,Awaiting Assignment,17
+B1080,5,F9-325,F9,2024-04-18,Success (SLC‑40),Success (ASOG),28 days,Awaiting Assignment,17
+B1080,5,F9-338,F9,2024-05-23,Success (SLC‑40),Success (ASOG),35 days,Awaiting Assignment,17
+B1080,5,F9-347,F9,2024-06-20,Success (SLC‑40),Success (JRTI),28 days,Awaiting Assignment,17
+B1080,5,F9-360,F9,2024-08-04,Success (SLC‑40),Success (LZ‑1),45 days,Awaiting Assignment,17
+B1080,5,F9-380,F9,2024-10-15,Success (SLC‑40),Success (ASOG),72 days,Awaiting Assignment,17
+B1080,5,F9-393,F9,2024-11-11,Success (SLC‑40),Success (ASOG),27 days,Awaiting Assignment,17
+B1080,5,F9-401,F9,2024-11-25,Success (SLC‑40),Success (JRTI),14 days,Awaiting Assignment,17
+B1080,5,F9-414,F9,2024-12-23,Success (LC‑39A),Success (JRTI),28 days,Awaiting Assignment,17
+B1080,5,F9-423,F9,2025-01-13,Success (SLC‑40),Success (ASOG),21 days,Awaiting Assignment,17
+B1080,5,F9-438,F9,2025-02-18,Success (SLC‑40),Success (JRTI),36 days,Awaiting Assignment,17
+B1080,5,F9-453,F9,2025-03-31,Success (SLC‑40),Success (JRTI),41 days,Awaiting Assignment,17
+B1081,5,F9-249,F9,2023-08-26,Success (LC‑39A),Success (LZ‑1),N/A,Awaiting Assignment,13
+B1081,5,F9-271,F9,2023-11-10,Success (LC‑39A),Success (LZ‑1),76 days,Awaiting Assignment,13
+B1081,5,F9-282,F9,2023-12-19,Success (SLC‑40),Success (ASOG),39 days,Awaiting Assignment,13
+B1081,5,F9-296,F9,2024-02-08,Success (SLC‑40),Success (LZ‑1),51 days,Awaiting Assignment,13
+B1081,5,F9-306,F9,2024-03-04,Success (SLC‑4E),Success (LZ‑4),25 days,Awaiting Assignment,13
+B1081,5,F9-319,F9,2024-04-07,Success (SLC‑4E),Success (OCISLY),34 days,Awaiting Assignment,13
+B1081,5,F9-341,F9,2024-05-28,Success (SLC‑4E),Success (LZ‑4),51 days,Awaiting Assignment,13
+B1081,5,F9-351,F9,2024-06-29,Success (SLC‑4E),Success (OCISLY),32 days,Awaiting Assignment,13
+B1081,5,F9-369,F9,2024-08-31,Success (SLC‑4E),Success (OCISLY),63 days,Awaiting Assignment,13
+B1081,5,F9-377,F9,2024-09-25,Success (SLC‑4E),Success (OCISLY),25 days,Awaiting Assignment,13
+B1081,5,F9-391,F9,2024-11-09,Success (SLC‑4E),Success (OCISLY),45 days,Awaiting Assignment,13
+B1081,5,F9-406,F9,2024-12-05,Success (SLC‑4E),Success (OCISLY),26 days,Awaiting Assignment,13
+B1081,5,F9-447,F9,2025-03-15,Success (SLC‑4E),Success (LZ‑4),100 days,Awaiting Assignment,13
+B1082,5,F9-286,F9,2024-01-03,Success (SLC‑4E),Success (OCISLY),N/A,Awaiting Launch,11
+B1082,5,F9-300,F9,2024-02-15,Success (SLC‑4E),Success (OCISLY),43 days,Awaiting Launch,11
+B1082,5,F9-322,F9,2024-04-11,Success (SLC‑4E),Success (LZ‑4),56 days,Awaiting Launch,11
+B1082,5,F9-333,F9,2024-05-10,Success (SLC‑4E),Success (OCISLY),29 days,Awaiting Launch,11
+B1082,5,F9-346,F9,2024-06-19,Success (SLC‑4E),Success (OCISLY),40 days,Awaiting Launch,11
+B1082,5,F9-359,F9,2024-08-04,Success (SLC‑4E),Success (OCISLY),46 days,Awaiting Launch,11
+B1082,5,F9-383,F9,2024-10-20,Success (SLC‑4E),Success (LZ‑4),77 days,Awaiting Launch,11
+B1082,5,F9-394,F9,2024-11-14,Success (SLC‑4E),Success (OCISLY),25 days,Awaiting Launch,11
+B1082,5,F9-409,F9,2024-12-13,Success (SLC‑4E),Success (OCISLY),29 days,Awaiting Launch,11
+B1082,5,F9-427,F9,2025-01-21,Success (SLC‑4E),Success (OCISLY),39 days,Awaiting Launch,11
+B1082,5,F9-440,F9,2025-02-23,Success (SLC‑4E),Success (OCISLY),33 days,Awaiting Launch,11
+B1082,5,F9-xxx,F9,2025-04-20,Planned (SLC‑4E),Planned (OCISLY),56 days,Awaiting Launch,Planned
+B1083,5,F9-305,F9,2024-03-04,Success (LC‑39A),Success (LZ‑1),N/A,Awaiting Assignment,10
+B1083,5,F9-321,F9,2024-04-10,Success (SLC‑40),Success (JRTI),37 days,Awaiting Assignment,10
+B1083,5,F9-332,F9,2024-05-08,Success (LC‑39A),Success (ASOG),28 days,Awaiting Assignment,10
+B1083,5,F9-372,F9,2024-09-10,Success (LC‑39A),Success (JRTI),125 days,Awaiting Assignment,10
+B1083,5,F9-389,F9,2024-11-05,Success (LC‑39A),Success (LZ‑1),56 days,Awaiting Assignment,10
+B1083,5,F9-403,F9,2024-11-30,Success (SLC‑40),Success (JRTI),25 days,Awaiting Assignment,10
+B1083,5,F9-416,F9,2024-12-29,Success (SLC‑40),Success (ASOG),29 days,Awaiting Assignment,10
+B1083,5,F9-426,F9,2025-01-21,Success (LC‑39A),Success (ASOG),23 days,Awaiting Assignment,10
+B1083,5,F9-441,F9,2025-02-27,Success (LC‑39A),Success (ASOG),37 days,Awaiting Assignment,10
+B1083,5,F9-459,F9,2025-04-13,Success (LC‑39A),Success (ASOG),45 days,Awaiting Assignment,10
+B1085,5,F9-366,F9,2024-08-20,Success (SLC‑40),Success (ASOG),N/A,Awaiting Assignment,6
+B1085,5,F9-378,F9,2024-09-28,Success (SLC‑40),Success (LZ‑1),39 days,Awaiting Assignment,6
+B1085,5,F9-390,F9,2024-11-07,Success (SLC‑40),Success (JRTI),40 days,Awaiting Assignment,6
+B1085,5,F9-410,F9,2024-12-17,Success (SLC‑40),Success (ASOG),40 days,Awaiting Assignment,6
+B1085,5,F9-425,F9,2025-01-15,Success (LC‑39A),Success (JRTI),29 days,Awaiting Assignment,6
+B1085,5,F9-454,F9,2025-04-01,Success (LC‑39A),Success (ASOG),76 days,Awaiting Assignment,6
+B1088,5,F9-404,F9,2024-11-30,Success (SLC‑4E),Success (OCISLY),N/A,Awaiting Assignment,5
+B1088,5,F9-424,F9,2025-01-14,Success (SLC‑4E),Success (LZ‑4),45 days,Awaiting Assignment,5
+B1088,5,F9-444,F9,2025-03-12,Success (SLC‑4E),Success (LZ‑4),57 days,Awaiting Assignment,5
+B1088,5,F9-450,F9,2025-03-21,Success (SLC‑4E),Success (LZ‑4),9 days,Awaiting Assignment,5
+B1088,5,F9-455,F9,2025-04-04,Success (SLC‑4E),Success (OCISLY),14 days,Awaiting Assignment,5
+B1090,5,F9-412,F9,2024-12-17,Success (LC‑39A),Success (JRTI),N/A,Awaiting Launch,2
+B1090,5,F9-446,F9,2025-03-14,Success (LC‑39A),Success (LZ‑1),87 days,Awaiting Launch,2
+B1090,5,F9-xxx,F9,2025-04-22,Planned (SLC‑40),Planned (LZ‑2),39 days,Awaiting Launch,Planned
+B1092,5,F9-442,F9,2025-02-27,Success (SLC‑40),Success (JRTI),N/A,Awaiting Launch,2
+B1092,5,F9-451,F9,2025-03-24,Success (SLC‑40),Success (LZ‑1),25 days,Awaiting Launch,2
+B1092,5,F9-xxx,F9,2025-04-21,Planned (LC‑39A),Planned (LZ‑1),28 days,Awaiting Launch,Planned
+B1093,5,F9-457,F9,2025-04-07,Success (SLC‑4E),Success (OCISLY),N/A,Awaiting Assignment,1
