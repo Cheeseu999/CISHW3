@@ -1,0 +1,74 @@
+engine_number,block_type,flight_number,flight_type,launch_date,launch_pad,landing_location,turnaround_time,engine_status,total_launches
+B0001,1.0,N/A,N/A,N/A,N/A,N/A,0,N/A,1
+B0002,1.0,N/A,N/A,N/A,Suborbital,8 test landings achieved[10],0,Retired,1
+B0003,1.0,F9-001,F9,2010-06-04,Success (SLC‑40)[12],Failure (parachute),0,Destroyed,1
+B0004,1.0,F9-002,F9,2010-12-08,Success (SLC‑40),Failure (parachute),0,Destroyed,1
+B0005,1.0,F9-003,F9,2012-05-22,Success (SLC‑40),No attempt,0,Expended,1
+B0006,1.0,F9-004,F9,2012-10-08,Partial success (SLC‑40)[15],No attempt,0,Expended,1
+B0007,1.0,F9-005,F9,2013-03-01,Success (SLC‑40),No attempt,0,Expended,1
+B1001,1.1,N/A,N/A,N/A,N/A,N/A,0,N/A,1
+B1002,1.1,N/A,N/A,N/A,Suborbital,4 test landings achieved[10],0,Destroyed,1
+B1003,1.1,F9-006,F9,2013-09-29,Success (SLC‑4E),No attempt,0,Expended,1
+B1004,1.1,F9-007,F9,2013-12-03,Success (SLC‑40),No attempt,0,Expended,1
+B1005,1.1,F9-008,F9,2014-01-06,Success (SLC‑40),No attempt,0,Expended,1
+B1006,1.1,F9-009,F9,2014-04-18,Success (SLC‑40),No attempt,0,Expended,1
+B1007,1.1,F9-010,F9,2014-07-14,Success (SLC‑40),No attempt,0,Expended,1
+B1008,1.1,F9-011,F9,2014-08-05,Success (SLC‑40),No attempt,0,Expended,1
+B1009,1.1,N/A,N/A,N/A,N/A,N/A,0,Never completed,1
+B1010,1.1,F9-013,F9,2014-09-21,Success (SLC‑40),No attempt,0,Expended,1
+B1011,1.1,F9-012,F9,2014-09-07,Success (SLC‑40),No attempt,0,Expended,1
+B1012,1.1,F9-014,F9,2015-01-10,Success (SLC‑40),Failure (JRTI),0,Destroyed,1
+B1013,1.1,F9-015,F9,2015-02-11,Success (SLC‑40),No attempt,0,Expended,1
+B1014,1.1,F9-016,F9,2015-03-02,Success (SLC‑40),No attempt,0,Expended,1
+B1015,1.1,F9-017,F9,2015-04-14,Success (SLC‑40),Failure (JRTI),0,Destroyed,1
+B1016,1.1,F9-018,F9,2015-04-27,Success (SLC‑40),No attempt,0,Expended,1
+B1017,1.1,F9-021,F9,2016-01-17,Success (SLC‑4E),Failure (JRTI),0,Destroyed,1
+B1018,1.1,F9-019,F9,2015-06-28,Failure (SLC‑40),Precluded,0,Destroyed,1
+B1019,4,F9-020,F9,2015-12-22,Success (SLC‑40),Success (LZ‑1)[24],N/A,Retired,1
+B1020,4,F9-022,F9,2016-03-04,Success (SLC‑40),Failure (OCISLY),N/A,Destroyed,1
+B1021,4,F9-023,F9,2016-04-08,Success (SLC‑40),Success (OCISLY),N/A,Retired,2
+B1021,4,F9-032,F9,2017-03-30,Success (LC‑39A),Success (OCISLY)[32][33],356 days,Retired,2
+B1022,4,F9-024,F9,2016-05-06,Success (SLC‑40),Success (OCISLY),N/A,Retired,1
+B1023,4,F9-025,F9,2016-05-27,Success (SLC‑40),Success (OCISLY)[35],N/A,Retired,2
+B1023,4,FH-001,FH,2018-02-06,Success (LC‑39A),Success (LZ‑1),620 days,Retired,2
+B1024,4,F9-026,F9,2016-06-15,Success (SLC‑40),Failure (OCISLY),N/A,Destroyed,1
+B1025,4,F9-027,F9,2016-07-18,Success (SLC‑40),Success (LZ‑1),N/A,Retired,2
+B1025,4,FH-001,FH,2018-02-06,Success (LC‑39A),Success (LZ‑2),568 days,Retired,2
+B1026,4,F9-028,F9,2016-08-14,Success (SLC‑40),Success (OCISLY)[41],N/A,Retired,1
+B1027,4,N/A,N/A,Manufactured in 2016[42],N/A,N/A,N/A,N/A,1
+B1028,4,—[c],—[,2016-09-03,Precluded[46],Precluded,N/A,Destroyed,1
+B1029,4,F9-029,F9,2017-01-14,Success (SLC‑4E),Success (JRTI),N/A,Retired,2
+B1029,4,F9-036,F9,2017-06-23,Success (LC‑39A),Success (OCISLY)[49],160 days,Retired,2
+B1030,4,F9-031,F9,2017-03-16,Success (LC‑39A),No attempt[51],N/A,Expended,1
+B1031,4,F9-030,F9,2017-02-19,Success (LC‑39A),Success (LZ‑1)[53],N/A,Retired,2
+B1031,4,F9-043,F9,2017-10-11,Success (LC‑39A),Success (OCISLY),234 days,Retired,2
+B1032,4,F9-033,F9,2017-05-01,Success (LC‑39A),Success (LZ‑1),N/A,Expended,2
+B1032,4,F9-048,F9,2018-01-31,Success (SLC‑40),No attempt[d],275 days,Expended,2
+B1033,4,FH-001,FH,2018-02-06,Success (LC‑39A),Failure (OCISLY),N/A,Destroyed,1
+B1034,4,F9-034,F9,2017-05-15,Success (LC‑39A),No attempt[51],N/A,Expended,1
+B1035,4,F9-035,F9,2017-06-03,Success (LC‑39A),Success (LZ‑1),N/A,Retired,2
+B1035,4,F9-045,F9,2017-12-15,Success (SLC‑40),Success (LZ‑1)[63],195 days,Retired,2
+B1036,4,F9-037,F9,2017-06-25,Success (SLC‑4E),Success (JRTI),N/A,Expended,2
+B1036,4,F9-046,F9,2017-12-23,Success (SLC‑4E),No attempt,181 days,Expended,2
+B1037,4,F9-038,F9,2017-07-05,Success (LC‑39A),No attempt[51],N/A,Expended,1
+B1038,4,F9-040,F9,2017-08-24,Success (SLC‑4E),Success (JRTI),N/A,Expended,2
+B1038,4,F9-049,F9,2018-02-22,Success (SLC‑4E),No attempt[51],182 days,Expended,2
+B1039,4,F9-039,F9,2017-08-14,Success (LC‑39A),Success (LZ‑1),N/A,Expended,2
+B1039,4,F9-052,F9,2018-04-02,Success (SLC‑40),No attempt[70],231 days,Expended,2
+B1040,4,F9-041,F9,2017-09-07,Success (LC‑39A),Success (LZ‑1),N/A,Expended,2
+B1040,4,F9-056,F9,2018-06-04,Success (SLC‑40)[73],No attempt[51],270 days,Expended,2
+B1041,4,F9-042,F9,2017-10-09,Success (SLC‑4E),Success (JRTI),N/A,Expended,2
+B1041,4,F9-051,F9,2018-03-30,Success (SLC‑4E),No attempt[76],172 days,Expended,2
+B1042,4,F9-044,F9,2017-10-30,Success (LC‑39A),Success (OCISLY),N/A,Retired,1
+B1043,4,F9-047,F9,2018-01-08,Success (SLC‑40)[80],Success (LZ‑1),N/A,Expended,2
+B1043,4,F9-055,F9,2018-05-22,Success (SLC‑4E),No attempt[51],134 days,Expended,2
+B1044,4,F9-050,F9,2018-03-06,Success (SLC‑40),No attempt[69],N/A,Expended,1
+B1045,4,F9-053,F9,2018-04-18,Success (SLC‑40),Success (OCISLY),N/A,Expended,2
+B1045,4,F9-057,F9,2018-06-29,Success (SLC‑40)[81],No attempt[3],72 days,Expended,2
+B1046,5,F9-054,F9,2018-05-11,Success (LC‑39A),Success (OCISLY),N/A,Destroyed,4
+B1047,5,F9-058,F9,2018-07-22,Success (SLC‑40),Success (OCISLY),N/A,Expended,3
+B1048,5,F9-059,F9,2018-07-25,Success (SLC‑4E),Success (JRTI),N/A,Destroyed,5
+B1050,5,F9-065,F9,2018-12-05,Success (SLC‑40),Failure (LZ‑1),N/A,Destroyed,1
+B1053,5,FH-002,FH,2019-04-11,Success (LC‑39A),Success (LZ‑2)[124],N/A,Expended,3
+B1063,5,F9-099,F9,2020-11-21,Success (SLC‑4E),Success (LZ‑4),N/A,Awaiting Assignment,24
+B1063,5,F9-119,F9,2021-05-26,Success (SLC‑40),Success (JRTI),186 days,Awaiting Assignment,24
